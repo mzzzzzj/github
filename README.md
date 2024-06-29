@@ -19,7 +19,7 @@ TG中文群组索引机器人bot
 
 @kaicehbot  https://t.me/kaicehbot 福利开车机器人；【推荐】可以做电报群组和频道引流用
 
- tg://setlanguage?lang=zhcncc
+ 电报中文汉化 https://t.me/yisocn588/16
 
 @soso_heji SOSO 搜搜 – 搜索群组，不会用机器人的可以直接进群发想找的频道或群组关键词查找
 

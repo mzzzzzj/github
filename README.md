@@ -3,21 +3,34 @@
 
 本文给你列举电报 Telegram 中最常用也是最实用的一些机器人，让你更好的体验 Telegram。
 
+
 我们都知道电报有一个比较核心的功能体验就是群和频道，但是很多时候群主无法管理好一个群或者频道，因此需要借助一些机器人来协助处理，或者有些功能只能通过机器人来处理，下面我们就列举一下实用的机器人列表。
 
 telegram官方bot|机器人
+
 @botfahter 管理机器人的官方bot，一般用不到它，放在第一位是因为要创建机器人的都要用到它。
+
 TG中文群组索引机器人bot
+
 @jisou 【极搜-中文搜索】：Telegram上的Hao123，频道大全，也有个频道，是发送关键词，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。
+
 @jishou_heji 极搜 – 搜索群组，不会用机器人的可以直接进群发想找的频道或群组关键词查找
+
 @soso 【SOSO 搜搜 中文搜索】：发送关键词来寻找群组、频道或视频。
+
 @soso_heji SOSO 搜搜 – 搜索群组，不会用机器人的可以直接进群发想找的频道或群组关键词查找
+
 @baidusosobot 【百度搜索】：TG找群·找组织·必备机器人
+
 @baidu_heji 百度 – 搜索群组，不会用机器人的可以直接进群发想找的频道或群组关键词查找
+
 @DogeIndexBot 【🔍 狗狗索引 – 搜索神器】：TG最佳搜索神器，一键搜索频道、群组和机器人
+
 @zh_secretary_bot 【TGX-频道秘书】：TGX-索引公告板 @zh_secretary 的群组频道登记机器人，优点：和【TGCN-群组索引计划】差不多，又有可以看群组频道推荐的地方了，缺点：不能通过关键词查找
+
 @qunzudaquan_bot 【TG群组频道导航机器人 – @qunzudaquan_bot】：添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update
 群组抽奖机器人
+
 @tgLotteryBot【Lottery Bot V2】：抽奖助手机器人，Telegram 中文抽奖机器人
 @LotteryIndex【Telegram 抽奖】：抽奖信息展示频道
 @LotteryHelperBot：抽奖助手机器人

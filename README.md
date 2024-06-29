@@ -186,23 +186,6 @@ MissRose_bot Rose：英文群管理bot,可以自动回复关键字,限制特定�
 @xiannvgong_bot 仙女宫：套图发布机器人（非漏点图片），/hello 随机9张写真，/all 随机一整套写真（流量慎用，试用了一次发来130张）
 RSS订阅机器人：
 
-
-
-
-@ppuabot：如果在 https://nic.ua 申请pp.ua的免费域名，激活时会用到。
-@smsActivateruBot：https://sms-activate.ru 一个俄罗斯接码网站的机器人，暂时只知道绑定后登录会在TG里发消息提醒你。
-匿名交易
-@MugglePayBot 【TG匿名支付钱包 – 麻瓜宝】：基于telegarm的电子钱包，匿名交易0手续费。安全性未知！
-GIF查询
-@TumblrAce_bot【GIF出处查询机器人】：本机器人可以帮助您查找GIF动图的出处，查询需要使用积分，初始积分50分，首次使用时通过邀请链接访问可多得30分 https://t.me/tumblrace_bot?start=invite653942358
-小游戏
-@mine_sweeper_bot 【Minesweeper】：扫雷游戏 GitHub
-小说
-@xiaoshuobot：一个按照提示操作可以下载小说的机器人，提供的是TXT格式文件下载
-批量删除消息
-@delall_bot：可以删除你所有的频道或群组的消息。以管理员身份将bot添加到频道/群组（至少具有“删除消息”、“邀请用户”和“添加管理员”权限）
-查询TG账号信息
-@GetMyDateBot【Get Date】：一个简单的机器人，回复任何内容获得当前账号的ID和创建日期
 --------------------------------------------------------------------------------
 
 我们会不断更新好用的机器人分享给大家

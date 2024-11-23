@@ -12,14 +12,14 @@ telegram官方bot|机器人
 
 TG中文群组索引机器人bot
 
-@yisosuoyin (https://t.me/YiSosuoyinbot)  【中文搜索】：Telegram上的Hao123，频道大全已经无法使用，是发送关键词，然后机器人BOT提供关键词相关群组的机器人。可以拉到群组使用。
+@sohu123bot (https://t.me/sohu123bot)  【中文搜索】：Telegram上的Hao123，频道大全已经无法使用，是发送关键词，然后机器人BOT提供关键词相关群组的机器人。可以拉到群组使用。
 
 
-@中文搜索群组 (https://t.me/YISOSuoyins) 搜索群组，不会用机器人的可以直接进群发想找的频道或群组关键词查找
+@中文搜索群组 (https://t.me/sohu123a) 搜索群组，不会用机器人的可以直接进群发想找的频道或群组关键词查找
 
 @kaicehbot  https://t.me/kaicehbot 福利开车机器人；【推荐】可以做电报群组和频道引流用
 
- 电报中文汉化 https://t.me/yisocn588/16
+ 电报中文汉化 (https://t.me/sohu123a)
 
 @soso_heji SOSO 搜搜 – 搜索群组，不会用机器人的可以直接进群发想找的频道或群组关键词查找
 
